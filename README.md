@@ -7,3 +7,5 @@ This system is a music generator featuring a variable-order Markov model and a M
 The 'data' directory contains the pretrained models and samples used in the evaluation, so no training is necessary to generate outputs. However, the MAESTRO V3.0.0 MIDI dataset can be downloaded [here](https://magenta.tensorflow.org/datasets/maestro#v300) and preprocessed for (further) training.
 
 The list of required third-party modules are in 'requirements.txt' and these should be installed prior to use.
+
+Development was done in Python 3.11.
