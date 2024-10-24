@@ -1,6 +1,6 @@
 # VOMM-and-Music-Transformer
 
-This system is a music generator featuring a variable-order Markov model and a Music Transformer, allowing for flexible output generation and diversity control via adjustable hyperparameters. See my report [here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/mattblessing/VOMM-and-Music-Transformer/refs/heads/main/report.pdf) for more details.
+This system is a music generator featuring a variable-order Markov model and a Music Transformer, allowing for flexible output generation and diversity control via adjustable hyperparameters. See my report 'report.pdf' for more details.
 
 'main.ipynb' is the entry point for the system and contains code for loading data, preprocessing, training the models, generating output and carrying out evaluation. To generate output from the models, import the dependencies and scroll down to the generation section - the pretrained models can be loaded and output can be generated and listened to. The file already contains some outputs from the models that were not shown in the demonstration.
 
